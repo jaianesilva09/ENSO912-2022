@@ -1,4 +1,7 @@
-Bem-vindo(a) ao repositório da turma 912!
-alunos jaiane, gisely, clara dailly e thiago dos santos.
+* Bem-vindo(a) ao repositório da turma 912!
 
-ifal arapiraca!!
+* Alunos: Jaiane, Gisely, Clara Dailly e Thiago dos Santos.
+
+* IFAL - Campus Arapiraca!!
+
+* Atividade AA5;
