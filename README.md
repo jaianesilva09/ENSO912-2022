@@ -5,3 +5,7 @@
 * IFAL - Campus Arapiraca!!
 
 * Atividade AA5;
+
+* Data feita: 25/07/2022;
+
+* Data de entrega: 01/08/2021;
