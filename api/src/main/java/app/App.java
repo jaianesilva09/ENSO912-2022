@@ -6,7 +6,7 @@ public class App extends Jooby {
 
   {
     mvc(new Index());
-    mvc(new Adicao());
+    mvc(new Divisao());
   }
 
   public static void main(final String[] args) {
