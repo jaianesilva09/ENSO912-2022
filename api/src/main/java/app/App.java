@@ -1,3 +1,4 @@
+ divisao---Gisely
 package app;
 
 import io.jooby.Jooby;
@@ -6,6 +7,7 @@ public class App extends Jooby {
 
   {
     mvc(new Index());
+    mvc(new Divisao());
     mvc(new Multiplicacao());
   }
 
@@ -14,3 +16,4 @@ public class App extends Jooby {
   }
 
 }
+
