@@ -14,13 +14,6 @@ public class Index {
   }
 }
 
-@Path("/")
-public class Index {
 
-  @GET
-  public String index() {
-    return "Bem-vindos/as a API calculadora";
-  }
-}
 
 
