@@ -49,4 +49,10 @@ public class SubtracaoTest {
         double resultado = subtracao.calcula("8", "4");
         assertEquals(4.0, resultado);
     }
+
+    @Test
+    public void verificaNovo() {
+        double resultado = subtracao.calcula("18", "8");
+        assertEquals(10.0, resultado);
+    }
 }
