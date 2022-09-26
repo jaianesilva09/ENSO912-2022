@@ -50,5 +50,11 @@ public class AdicaoTest {
         assertEquals(100.0, resultado);
     }
 
+    @Test
+    public void verificandoAdicao() {
+        double resultado = adicao.calcula("100", "50");
+        assertEquals(150.0, resultado);
+    }
+
     
 }
