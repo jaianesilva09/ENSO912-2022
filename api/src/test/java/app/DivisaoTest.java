@@ -49,4 +49,10 @@ public class DivisaoTest {
         double resultado = divisao.calcula("8", "4");
         assertEquals(2.0, resultado);
     }
+
+    @Test
+    public void verificaNovo() {
+        double resultado = divisao.calcula("18", "9");
+        assertEquals(2.0, resultado);
+    }
 }
