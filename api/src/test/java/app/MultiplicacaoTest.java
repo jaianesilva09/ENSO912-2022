@@ -49,4 +49,9 @@ public class MultiplicacaoTest {
         double resultado = multiplicacao.calcula("8", "4");
         assertEquals(32.0, resultado);
     }
+    @Test
+    public void verificaNovo() {
+        double resultado = multiplicacao.calcula("5", "5");
+        assertEquals(25.0, resultado);
+    }
 }
